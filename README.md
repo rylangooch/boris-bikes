@@ -1,5 +1,5 @@
-Boris Bikes Challenge
+# Boris Bikes Challenge
 
-This week's challenge is to write a program that models the Boris Bikes system.
+A program that models the London's Boris Bikes system.
 
-The program will run all the Docking Stations, simulate all the Bikes, and emulate the entire infrastructure (vans, repair staff etc) required.
+The program will run all the docking stations, simulate all the bikes, and emulate the entire infrastructure (vans, repair staff etc) required.
